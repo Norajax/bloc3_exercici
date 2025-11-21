@@ -1,4 +1,8 @@
 Avatar
+<<<<<<< HEAD
 zotopia
 
 Monty Python
+=======
+BAD BOY
+>>>>>>> origin/main
